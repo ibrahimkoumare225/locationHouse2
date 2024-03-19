@@ -12,5 +12,9 @@ import { RouterLink } from '@angular/router';
 })
 export class HousingLocationComponent {
     @Input() housingLocation!: HousingLocation;
+
+ 
+
+    
   
 }
